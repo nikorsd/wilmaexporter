@@ -11,9 +11,12 @@ This is a Python script that can scrape Wilma messages from a given account. It 
 Python 3
 
 # How to use
-1. Download this repository.
-2. Unzip the downloaded file.
-3. Run the .bat script (if you are on mac or linux run the .sh script)
-4. Follow the instructions in the terminal.
+1. Clone this repository.
+2. Run the .bat script (if you are on mac or linux run the .sh script)
+3. Follow the instructions in the terminal.
 
 After scraping the saved messages will be stored in the messages folder.
+
+Tested on macOS 15.5
+
+I am not associated with Wilma or Visma in any way.
